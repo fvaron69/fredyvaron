@@ -1,0 +1,34 @@
+body {
+  font-family: ‘Rokkitt’, serif;
+  font-size: 48px;
+  background-image: url(photo-1531884422565-1b4a26326a31.jpg);  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  }
+  
+h2 {
+  text-align: center;
+  text-decoration: underline;
+  color: white;
+}
+h4{
+  text-align: center;
+  text-decoration: underline;
+  color: white;
+}
+img{
+  
+  display: inline-block;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid white;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  display: block;
+  border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+}
